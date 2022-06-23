@@ -4,6 +4,6 @@ git add .
 echo " enter commit message below "
 read x
 
-git commit -m x
+git commit -m '$x'
 
 git push
