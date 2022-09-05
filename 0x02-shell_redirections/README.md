@@ -1,1 +1,1 @@
-this is a project for shell redirection and filters 
+this directory is for shell redirection 
