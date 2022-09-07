@@ -1,0 +1,1 @@
+just starting to write bash scripts
